@@ -14,7 +14,7 @@
 	<name>SpringBootAdmin</name>
 	<description>Spring boot Admin</description>
 	<properties>
-		<java.version>20</java.version>
+		<java.version>17</java.version>
 		<spring-boot-admin.version>3.1.5</spring-boot-admin.version>
 	</properties>
 	<dependencies>
